@@ -3,7 +3,7 @@ This project is an AI/ML-based license plate recognition system that leverages c
 
 Demo
 
-Check out the video showcasing the system in action: [https://youtu.be/PlkBWTf0Zm8]
+Check out the video showcasing the system in action: [(https://youtu.be/PlkBWTf0Zm8)]
 
 Key Features:
 
